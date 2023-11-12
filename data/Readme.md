@@ -14,5 +14,9 @@ The second dataset consists of randomly collected news' body and titles in plain
 - Satire: The Onion, Huffington Post Satire, Borowitz Report, The Beaverton, Satire Wire, and Faking News
 - Fake: Ending The Fed, True Pundit, abcnews.com.co, DC Gazette, Liberty Writers News, Before its News, InfoWars, Real News Right Now
 
-### Study:
-Horne, Benjamin D., and Sibel Adali. "This Just In: Fake News Packs a Lot in Title, Uses Simpler, Repetitive Content in Text Body, More Similar to Satire than Real News." NECO 2017
+Both datasets feature data from 2016 U.S. election period.
+
+### Dictionary:
+- Fake: news' body and titles that are known to be false and come from unreliable sources and/or have the intention to mislead the reader (Horne 2017, 2)
+- Real: news' body and titles that are known to be true and come from reliable sources (Horne 2017, 2)
+- Satire: news' body and titles that are known to come from self-identified satirical sources that serve the entertainment purpose and do not have a malicious intent (Horne 2017, 2)
