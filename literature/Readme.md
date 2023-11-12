@@ -3,7 +3,7 @@
 ## Identifying propaganda from online social networks during COVID-19 using machine learning techniques
 
 ![Whimsical Chart](https://static.us.edusercontent.com/files/ZacuVSVeAYum0N2wzAvRSvZI)
-Created with the help of Whimsical
+Figure 1. Flowchart of the research. Created with the help of Whimsical.
 
 ### Background/Motivation:
 
@@ -19,10 +19,10 @@ The results can be applied to a multitude of contexts and situations of interact
 
 ### Methodology:
 
-The methodology bases on a four-step system illustrated in Figure 1: data collection, preprocessing, feature engineering, and classification. The researcher first performed Twitter data collection through its application program interface (API) through the trending hashtags related to the research topic and provided manual annotations. (Khanday 2021, 3) During the data preprocessing stage, the textual data was tokenized, stop words were introduced, and the tokenized words went through lemmatization (discovering an intended meaning and connotation of words). Feature engineering utilized the TF/IDF technique, bag of words, and tweet length techniques and determined commonly used combinations containing one, two, or three words within the twits. The classification of data into propaganda and non-propaganda classes was performed through logistic regression, multinomial naive Bayes, support vector machine, and decision tree. (Khanday 2021, 3-4)
+The methodology bases on a four-step system illustrated in Figure 2: data collection, preprocessing, feature engineering, and classification. The researcher first performed Twitter data collection through its application program interface (API) through the trending hashtags related to the research topic and provided manual annotations. (Khanday 2021, 3) During the data preprocessing stage, the textual data was tokenized, stop words were introduced, and the tokenized words went through lemmatization (discovering an intended meaning and connotation of words). Feature engineering utilized the TF/IDF technique, bag of words, and tweet length techniques and determined commonly used combinations containing one, two, or three words within the twits. The classification of data into propaganda and non-propaganda classes was performed through logistic regression, multinomial naive Bayes, support vector machine, and decision tree. (Khanday 2021, 3-4)
 
 ![Figure 1](https://static.us.edusercontent.com/files/LuZVh29feuXq4ZbknzGDZCvY)
-Figure 1. A proposed system for identifying propaganda on online social networks. (Khanday 2021, 3)
+Figure 2. A proposed system for identifying propaganda on online social networks. (Khanday 2021, 3)
 
 ### Results:
 
@@ -48,7 +48,7 @@ Khanday, Akib Mohi, Qamar Rayees Khan, and Syed Tanzeel Rabani. Identifying Prop
 ## Applying Machine Learning Algorithms for Detecting Misinformation Online
 
 ![Chart](https://static.us.edusercontent.com/files/fw4G1WxxtdleJldr6Pd4qsLo)
-Created with the help of Markmap
+Figure 3. A flowchart of the research. Created with the help of Markmap.
 
 ### Background/Motivation
 
