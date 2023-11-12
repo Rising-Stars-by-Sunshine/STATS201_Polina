@@ -84,11 +84,10 @@ The research contributes to a plethora of fields, including, but not limited to 
 
 ### Bibliography
 Lee, Nayeon, Belinda Z. Li, Sinong Wang, Pascale Fung, Hao Ma, Wen-tau Yih, and Madian Khabsa. "On unifying misinformation detection." arXiv preprint arXiv:2104.05243 (2021).
+
 Torabi Asr, Fatemeh, and Maite Taboada. "Big Data and quality data for fake news and misinformation detection." Big Data & Society 6, no. 1 (2019): 2053951719843310.
 
 ### Writing Accuracy
-![Grammarly Check 1](<img width="188" alt="Screenshot 2023-11-12 at 6 58 46 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/c164b083-f530-437c-b610-e2fbb9dd442a">)
-![Grammarly Check 2](<img width="493" alt="Screenshot 2023-11-12 at 6 58 56 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/79be564b-7ed7-411d-981a-988128046658">
-)
-![Turnitin](<img width="320" alt="Screenshot 2023-11-12 at 7 15 08 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/2a2949c1-0339-4d09-9523-152dc2ce5380">
-)
+<img width="188" alt="Screenshot 2023-11-12 at 6 58 46 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/c164b083-f530-437c-b610-e2fbb9dd442a">
+<img width="493" alt="Screenshot 2023-11-12 at 6 58 56 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/79be564b-7ed7-411d-981a-988128046658">
+<img width="320" alt="Screenshot 2023-11-12 at 7 15 08 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/2a2949c1-0339-4d09-9523-152dc2ce5380">
