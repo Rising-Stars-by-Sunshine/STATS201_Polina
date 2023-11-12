@@ -1,4 +1,5 @@
-#Applying Machine Learning Algorithms for Detecting Misinformation Online
+# 1.1. Understanding Literature at the Frontiers of Machine Learning for Social Science
+# Applying Machine Learning Algorithms for Detecting Misinformation Online
 
 ![Whimsical Chart](https://static.us.edusercontent.com/files/ZacuVSVeAYum0N2wzAvRSvZI)
 Created with the help of Whimsical
