@@ -1,9 +1,17 @@
-# Title: Applying Machine Learning Algorithms for Detecting Misinformation Online
-This GitHub repository is dedicated to a machine learning project aimed at detecting online misinformation. The model leverages BERT (Bidirectional Encoder Representations from Transformers) with Multi-Label Classification and Multi-Task Learning (MTL). The primary data source for this project is social networks' APIs. We collect and utilize data from these platforms to train our model, classifying online information into various categories, such as biased/objective, clickbait/not-clickbait, fake/true, rumor/fact, satire/not-satire, and outdated/up-to-date. The algorithm is designed for binary classification within each category. 
+## Data
 
-# Description
-The developed misinformation detection model expects to achieve the following results: 
-• Determining the algorithms better suited for the machine learning algorithm; 
-• Analyzing the preliminary data interpretation and detecting refinery areas; 
-• Providing an accurate detection of the classification of the information; 
-• Evaluation of the common trends shared between the data.
+### The data for the machine learning algorithm was taken from the following research:
+Horne, Benjamin D., and Sibel Adali. "This Just In: Fake News Packs a Lot in Title, Uses Simpler, Repetitive Content in Text Body, More Similar to Satire than Real News." NECO 2017
+https://github.com/BenjaminDHorne/fakenewsdata1
+
+### There are two datasets: Buzzfeed Political News and Random Political News. 
+
+The first dataset contains news' body and titles in plain text files initially investigated by Craig Silverman of Buzzfeed News in the article " This Analysis Shows How Viral Fake Election News Stories Outperformed Real News On Facebook." 
+
+The second dataset consists of randomly collected news' body and titles in plain text files from three source categories in 2016. The sources mentioned by the authors of the original study:
+- Real: Wall Street Journal, The Economist, BBC, NPR, ABC, CBS, USA Today, The Guardian, NBC, The Washington Post
+- Satire: The Onion, Huffington Post Satire, Borowitz Report, The Beaverton, Satire Wire, and Faking News
+- Fake: Ending The Fed, True Pundit, abcnews.com.co, DC Gazette, Liberty Writers News, Before its News, InfoWars, Real News Right Now
+
+### Study:
+Horne, Benjamin D., and Sibel Adali. "This Just In: Fake News Packs a Lot in Title, Uses Simpler, Repetitive Content in Text Body, More Similar to Satire than Real News." NECO 2017
