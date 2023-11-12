@@ -1,8 +1,53 @@
 # 1.1. Understanding Literature at the Frontiers of Machine Learning for Social Science
-## Applying Machine Learning Algorithms for Detecting Misinformation Online
+
+## Identifying propaganda from online social networks during COVID-19 using machine learning techniques
 
 ![Whimsical Chart](https://static.us.edusercontent.com/files/ZacuVSVeAYum0N2wzAvRSvZI)
 Created with the help of Whimsical
+
+### Background/Motivation:
+
+The social media networks became the only means of communication during the COVID-19. The extent of information shared during that period has created a whole discussion about the validity of statements shared online, the purpose behind them, and what effect they have to have on the audience. The propaganda not medically proven regarding the virus spread, cure, and vaccination has been extensive, and the article looks into whether machine learning can be used to mark unverified claims and propaganda regarding COVID-19 online. (Khanday 2021, 1-2)
+
+### Research Question:
+
+How can machine learning techniques be used to identify propaganda online?
+
+### Application Scenarios:
+
+The results can be applied to a multitude of contexts and situations of interaction on social media networks to determine what features propagandist texts share and how machine learning algorithms can be trained to determine the text's purpose (propaganda or not).
+
+### Methodology:
+
+The methodology bases on a four-step system illustrated in Figure 1: data collection, preprocessing, feature engineering, and classification. The researcher first performed Twitter data collection through its application program interface (API) through the trending hashtags related to the research topic and provided manual annotations. (Khanday 2021, 3) During the data preprocessing stage, the textual data was tokenized, stop words were introduced, and the tokenized words went through lemmatization (discovering an intended meaning and connotation of words). Feature engineering utilized the TF/IDF technique, bag of words, and tweet length techniques and determined commonly used combinations containing one, two, or three words within the twits. The classification of data into propaganda and non-propaganda classes was performed through logistic regression, multinomial naive Bayes, support vector machine, and decision tree. (Khanday 2021, 3-4)
+
+![Figure 1](https://static.us.edusercontent.com/files/LuZVh29feuXq4ZbknzGDZCvY)
+Figure 1. A proposed system for identifying propaganda on online social networks. (Khanday 2021, 3)
+
+### Results:
+
+The research showed that Twitter posts marked as 'propaganda' by the algorithm contained more words and were lengthier. The research recognizes that the data used for model training had a primary connection with the COVID-19 pandemic, and the application and use of more information from a broad range of sectors will provide a more extensive analysis of online propaganda. Additionally, more feature engineering techniques will help achieve better text categorization.
+
+### Intellectual Merits/Practical Impacts:
+
+The study successfully proved that machine learning algorithms have the potential to provide a social media network analysis to determine the purpose of the statements through shared characteristics and sets of words. The study may be further enhanced by resorting to the use of more features as well as incorporating Deep learning algorithms.
+
+### Bibliography
+
+Khanday, Akib Mohi, Qamar Rayees Khan, and Syed Tanzeel Rabani. Identifying Propaganda from Online Social Networks during COVID-19 Using Machine Learning Techniques. International Journal of Information Technology, no. 13 (2021): 115–122. https://doi.org/10.1007/s41870-020-00550-5. 
+
+### Writing Accuracy
+![Grammarly Check 1](<img width="184" alt="Screenshot 2023-11-12 at 7 04 34 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/b4b61a24-aed5-47f3-a765-f69fabcdef58">)
+![Grammarly Check 2](<img width="500" alt="Screenshot 2023-11-12 at 7 04 46 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/5bb1f91c-cb7f-4c7a-83af-1bc125a47dbe">)
+![Turnitin](<img width="318" alt="Screenshot 2023-11-12 at 7 09 24 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/444e985d-762e-4504-8d98-33ac3db2dcb3">)
+*The similarity report highlighted the use of sources, title of the paper, and techniques used for algorithm training. Everything was cited in accordance with Chicago Manual
+
+# 1.2. Identifying Research Ideas at the Frontiers of Machine Learning for Social Science
+
+## Applying Machine Learning Algorithms for Detecting Misinformation Online
+
+![Chart](https://static.us.edusercontent.com/files/fw4G1WxxtdleJldr6Pd4qsLo)
+Created with the help of Markmap
 
 ### Background/Motivation
 
@@ -40,3 +85,10 @@ The research contributes to a plethora of fields, including, but not limited to 
 ### Bibliography
 Lee, Nayeon, Belinda Z. Li, Sinong Wang, Pascale Fung, Hao Ma, Wen-tau Yih, and Madian Khabsa. "On unifying misinformation detection." arXiv preprint arXiv:2104.05243 (2021).
 Torabi Asr, Fatemeh, and Maite Taboada. "Big Data and quality data for fake news and misinformation detection." Big Data & Society 6, no. 1 (2019): 2053951719843310.
+
+### Writing Accuracy
+![Grammarly Check 1](<img width="188" alt="Screenshot 2023-11-12 at 6 58 46 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/c164b083-f530-437c-b610-e2fbb9dd442a">)
+![Grammarly Check 2](<img width="493" alt="Screenshot 2023-11-12 at 6 58 56 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/79be564b-7ed7-411d-981a-988128046658">
+)
+![Turnitin](<img width="320" alt="Screenshot 2023-11-12 at 7 15 08 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/2a2949c1-0339-4d09-9523-152dc2ce5380">
+)
