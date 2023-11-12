@@ -37,9 +37,9 @@ The study successfully proved that machine learning algorithms have the potentia
 Khanday, Akib Mohi, Qamar Rayees Khan, and Syed Tanzeel Rabani. Identifying Propaganda from Online Social Networks during COVID-19 Using Machine Learning Techniques. International Journal of Information Technology, no. 13 (2021): 115–122. https://doi.org/10.1007/s41870-020-00550-5. 
 
 ### Writing Accuracy
-![Grammarly Check 1](<img width="184" alt="Screenshot 2023-11-12 at 7 04 34 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/b4b61a24-aed5-47f3-a765-f69fabcdef58">)
-![Grammarly Check 2](<img width="500" alt="Screenshot 2023-11-12 at 7 04 46 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/5bb1f91c-cb7f-4c7a-83af-1bc125a47dbe">)
-![Turnitin](<img width="318" alt="Screenshot 2023-11-12 at 7 09 24 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/444e985d-762e-4504-8d98-33ac3db2dcb3">)
+<img width="184" alt="Screenshot 2023-11-12 at 7 04 34 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/b4b61a24-aed5-47f3-a765-f69fabcdef58">
+<img width="500" alt="Screenshot 2023-11-12 at 7 04 46 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/5bb1f91c-cb7f-4c7a-83af-1bc125a47dbe">
+<img width="318" alt="Screenshot 2023-11-12 at 7 09 24 PM" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_Polina/assets/148934457/444e985d-762e-4504-8d98-33ac3db2dcb3">
 *The similarity report highlighted the use of sources, title of the paper, and techniques used for algorithm training. Everything was cited in accordance with Chicago Manual
 
 # 1.2. Identifying Research Ideas at the Frontiers of Machine Learning for Social Science
