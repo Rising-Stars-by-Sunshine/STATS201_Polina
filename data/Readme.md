@@ -33,7 +33,7 @@ Certainly! Here's the list with names in alphabetical order and formatted with G
 6. [The Onion](https://www.theonion.com/)
 
 ### Fake News:
-1. [abcnews.com.co](http://abcnews.com.co/) (Note: This is a satirical site that has been mistaken for real news.)
+1. [abcnews.com.co](http://abcnews.com.co/)
 2. [Before its News](https://beforeitsnews.com/)
 3. [DC Gazette](http://thedcgazette.com/)
 4. [Ending The Fed](http://endingthefed.com/)
