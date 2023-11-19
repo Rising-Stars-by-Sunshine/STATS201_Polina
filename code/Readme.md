@@ -1,5 +1,6 @@
 # Machine Learning Algorithms
-For this project, we will utilize two machine learning algorithms frequently used for the similar research purposes: BERT (Bidirectional Encoder Representations from Transformers) and Multi-Task Learning (MTL).
+For this project, we will utilize two machine learning algorithms frequently used for the similar research purposes: BERT (Bidirectional Encoder Representations from Transformers) and Multi-Task Learning (MTL). The effectiveness of this MLAs in hypothesis testing comes from the initial definition: BERT processes text bi-directionally, considering both the left and right contexts of each word, allowing the model to capture complex dependencies and relationships within the text. Additionally, BERT is pre-trained on a massive amount of data, allowing it to capture general language features effectively, and its semantic understanding can be particularly helpful in distinguishing between factual information and rumors and objective or biased publication.
+
 
 ## Sample code for data query (generated with the help of ChatGPT 3.5):
 ```python
@@ -69,8 +70,8 @@ print("Accuracy: {:.2f}%".format(accuracy * 100))
 
 ### Let me walk you through the steps in the data query process:
 1. Data Collection: We will first search for datasets containing social media posts, news articles, forum discussions, or other user-generated content potentially containing misinformation posted within the social networks of interest. The current two datasets for the project contain three kinds of data (already preprocessed, that is the next step): fake, real and satirical.
-2. Data Preprocessing: We will preprocess the collected text data from step one. This process utilizes methods, such as tokenization, removing stopwords, stemming or lemmatization, and encoding the text into a format suitable for BERT.
-3. Fine-Tuning BERT: In order to make BERT particularly effective for misinformation detection, fine-tuning is required. This involves training the BERT model on a labeled dataset of fake, real and satire examples. Each piece of text is labeled as either "fake", "real", or "satire". 
+2. Data Preprocessing: We will preprocess the collected text data from step one. This process utilizes methods, such as tokenization, removing stopwords, lemmatization, and encoding the text into a format suitable for BERT.
+3. Fine-Tuning BERT: In order to make BERT particularly effective for misinformation detection, fine-tuning is required. This involves training the BERT model on a labeled dataset of fake, real and satire examples. Each piece of text is labeled as either "fake", "real", or "satire", and then given additional labels of "rumor", "fact", "biased", "objective". 
 4. Classification: For enhanced performance of the previous step, we will utilize a classification model, which can be as simple as logistic regression or more complex neural network architectures. This model is trained to predict whether a given text contains fake information or not.
 5. Evaluation: In this step, we evaluate the model's performance using metrics like precision, recall, F1-score, and accuracy.
 
