@@ -8,7 +8,34 @@ Welcome to the GitHub repository showcasing the progress of my project within th
 The aim of this project is to develop a machine learning algorithm to analyze short media publications on potential presence of misinformation. From the initial stages of conceptualization to the latest updates, this repository serves as a comprehensive record of our progress.
 
 ### Table of Contents
-
+<ul>
+ <li>About the Author</li>
+ <ul>
+  <li>Education</li>
+  <li>Skills</li>
+  <li>Languages Spoken</li>
+  <li>Interests</li>
+  <li>Contact the Author</li>
+ </ul>
+ <li>Method</li>
+ <ul>
+   <li>1.1. The Prediction Problem</li>
+     <ul>
+       <li>Research Question Formulation</li>
+       <li>Operational Measures</li>
+       <li>Hypothesis Development</li>
+     </ul>
+   <li>1.2.The Machine Learning Workflow</li>
+     <ul>
+       <li>Model Development</li>
+       <li>Results Presentation</li>
+       <li>Model Evaluation</li>
+     </ul>
+ </ul>
+ <li>Data</li>
+ <li>Code</li>
+ <li>Literature</li>
+</ul>
 
 ##
 
