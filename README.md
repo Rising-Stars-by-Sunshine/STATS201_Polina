@@ -2,12 +2,12 @@
 ## STATS 201: Introduction to Machine Learning for Social Science
 ## Polina Konovalova: Online Misinformation Detection
 
-##
-
 ### GitHub Description
 Welcome to the GitHub repository showcasing the progress of my project within the STATS 201 course. I'm Polina Konovalova, and this space is dedicated to documenting and sharing the development journey of our project. 
 
 The aim of this project is to develop a machine learning algorithm to analyze short media publications on potential presence of misinformation. From the initial stages of conceptualization to the latest updates, this repository serves as a comprehensive record of our progress.
+
+##
 
 ### Table of Contents
 <ul>
